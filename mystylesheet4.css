@@ -91,7 +91,7 @@ border:1px solid black;
 }
 
 #startgame{
-width:50%;
+width:45%;
 height: 2em;
 background-color:lime;
 border:1px solid black;
@@ -99,10 +99,10 @@ border-radius:2em;
 margin-bottom:5px;
 margin-top:5px;
 padding-top:.5em;
-display:block;
+display:inline-block;
 }
 #cleargame{
-width:50%;
+width:45%;
 height:2em;
 background-color:red;
 border:1px solid black;
@@ -111,7 +111,7 @@ color:white;
 margin-bottom:5px;
 margin-top:5px;
 padding-top:.5em;
-display:block;
+display:inline-block;
 }
 
 #scoreboard{
