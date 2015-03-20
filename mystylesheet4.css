@@ -86,8 +86,8 @@ img {
 }
 
 #boxes1{
-width:600px;
-height:600px;
+width:150px;
+height:150px;
 border:3px solid red; 
 }
 
@@ -97,11 +97,11 @@ height:30%;
 color:black;
 display: inline-block;
 position:relative;
-border-right:3px solid black; /*Add 3px solid border, use any color you want*/
-border-bottom:3px solid black; /*Add 3px solid border, use any color you want*/
+border-right:2% solid black; /*Add 3px solid border, use any color you want*/
+border-bottom:2% solid black; /*Add 3px solid border, use any color you want*/
 /*background-color: blue; /*Add a background color to the box*/ */
 text-align:center; /*Align the text to the center*/
-margin-top:15px;
+margin-top:2%;
 background-image:url("x.png");
 background-size:100%;
 }
@@ -112,9 +112,9 @@ height:30%;
 color:red;
 display: inline-block;
 position:relative;
-border-right:3px solid black; /*Add 3px solid border, use any color you want*/
-border-bottom:3px solid black; /*Add 3px solid border, use any color you want*/
-border-left: 3px solid black; /*Add 1px solid border, use any color you want*/
+border-right:2% solid black; /*Add 3px solid border, use any color you want*/
+border-bottom:2% solid black; /*Add 3px solid border, use any color you want*/
+border-left: 2% solid black; /*Add 1px solid border, use any color you want*/
 background-color: white; /*Add a background color to the box*/
 text-align:center; /*Align the text to the center*/
 /*margin:20px*/
@@ -127,8 +127,8 @@ height:30%;
 color:black;
 display: inline-block;
 position:relative;
-border-left:3px solid black; /*Add 3px solid border, use any color you want*/
-border-bottom:3px solid black; /*Add 3px solid border, use any color you want*/
+border-left:2% solid black; /*Add 3px solid border, use any color you want*/
+border-bottom:2% solid black; /*Add 3px solid border, use any color you want*/
 text-align:center; /*Align the text to the center*/
 background-image:url("x.png");
 background-size:100%;
@@ -139,12 +139,12 @@ height:30%;
 color:red;
 display: inline-block;
 position:relative;
-border-right:3px solid black; /*Add 3px solid border, use any color you want*/
-border-bottom:3px solid black; /*Add 3px solid border, use any color you want*/
-border-top: 3px solid black; /*Add 1px solid border, use any color you want*/
+border-right:2% solid black; /*Add 3px solid border, use any color you want*/
+border-bottom:2% solid black; /*Add 3px solid border, use any color you want*/
+border-top: 2% solid black; /*Add 1px solid border, use any color you want*/
 background-color: white; /*Add a background color to the box*/
 text-align:center; /*Align the text to the center*/
-margin-top:5px;
+margin-top:2%;
 background-image:url("o.png");
 background-size:100%;
 }
@@ -154,9 +154,9 @@ height:30%;
 color:black;
 display: inline-block;
 position:relative;
-border: 3px solid black; /*Add 1px solid border, use any color you want*/
+border: 2% solid black; /*Add 1px solid border, use any color you want*/
 text-align:center; /*Align the text to the center*/
-margin-top:5px;
+margin-top:2%;
 background-image:url("x.png");
 background-size:100%;
 }
@@ -166,10 +166,10 @@ height:30%;
 color:red;
 display: inline-block;
 position:relative;
-border-left:3px solid black; /*Add 3px solid border, use any color you want*/
-border-bottom:3px solid black; /*Add 3px solid border, use any color you want*/
-border-top: 3px solid black; /*Add 1px solid border, use any color you want*/
-margin-top:5px;
+border-left:2% solid black; /*Add 3px solid border, use any color you want*/
+border-bottom:2% solid black; /*Add 3px solid border, use any color you want*/
+border-top: 2% solid black; /*Add 1px solid border, use any color you want*/
+margin-top:2%;
 background-color: white; /*Add a background color to the box*/
 text-align:center; /*Align the text to the center*/
 /*margin:20px*/
@@ -182,11 +182,11 @@ height:30%;
 color:black;
 display: inline-block;
 position:relative;
-border-right:3px solid black; /*Add 3px solid border, use any color you want*/
-border-top:3px solid black; /*Add 3px solid border, use any color you want*/
+border-right:2% solid black; /*Add 3px solid border, use any color you want*/
+border-top:2% solid black; /*Add 3px solid border, use any color you want*/
 /*background-color: blue; /*Add a background color to the box*/ */
 text-align:center; /*Align the text to the center*/
-margin-top:5px;
+margin-top:2%;
 background-image:url("x.png");
 background-size:100%;
 }
@@ -197,12 +197,12 @@ height:30%;
 color:red;
 display: inline-block;
 position:relative;
-border-right:3px solid black; /*Add 3px solid border, use any color you want*/
-border-left:3px solid black; /*Add 3px solid border, use any color you want*/
-border-top:3px solid black; /*Add 3px solid border, use any color you want*/
+border-right:2& solid black; /*Add 3px solid border, use any color you want*/
+border-left:2% solid black; /*Add 3px solid border, use any color you want*/
+border-top:2% solid black; /*Add 3px solid border, use any color you want*/
 background-color: white; /*Add a background color to the box*/
 text-align:center; /*Align the text to the center*/
-margin-top:5px;
+margin-top:2%;
 background-image:url("o.png");
 background-size:100%;
 }
@@ -212,23 +212,23 @@ height:30%;
 color:black;
 display: inline-block;
 position:relative;
-border-left:3px solid black; /*Add 3px solid border, use any color you want*/
-border-top:3px solid black; /*Add 3px solid border, use any color you want*/
+border-left:2% solid black; /*Add 3px solid border, use any color you want*/
+border-top:2% solid black; /*Add 3px solid border, use any color you want*/
 text-align:center; /*Align the text to the center*/
-margin-top:5px;
+margin-top:2%;
 background-image:url("x.png");
 background-size:100%;
 }
 
 #scoreboard{
-height:75px;
+height:25px;
 border: 1px solid black;
-margin-bottom:10px;
+margin-bottom:10%;
 }
 #you{
 width:45%;
 height:100%;
-margin-right: 5px;
+/*margin-right: 5px;*/
 display: inline-block;
 position:relative;
 border-right: 1px solid black;
@@ -237,7 +237,7 @@ border-right: 1px solid black;
 #them{
 width:45%;
 height: 100%;
-margin-left: 5px;
+/*margin-right: 5px;*/
 display: inline-block;
 position:relative;
 border-left: 1px solid black;
@@ -249,9 +249,9 @@ height: 2em;
 background-color:lime;
 border:1px solid black;
 border-radius:2em;
-margin-bottom:10px;
+/*margin-bottom:10px;
 margin-top:10px;
-padding-top:.5em;
+padding-top:.5em;*/
 }
 #cleargame{
 width:20%;
@@ -259,8 +259,8 @@ height:2em;
 background-color:red;
 border:1px solid black;
 border-radius:2em;
-margin-bottom:10px;
-margin-top:10px;
 color:white;
-padding-top:.5em;
+/*margin-bottom:10px;
+margin-top:10px;
+padding-top:.5em;*/
 }
