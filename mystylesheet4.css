@@ -84,11 +84,16 @@ img {
 	left:5px;
 	top:10px;
 }
+#bigbox{
+width:300px;
+height:300px;
+border:1px solid black;
+}
 
 #boxes1{
-width:150px;
-height:150px;
-border:3px solid red; 
+width:70%;
+height:50%;
+border:1px solid red; 
 }
 
 #box1{
@@ -221,7 +226,7 @@ background-size:100%;
 }
 
 #scoreboard{
-height:25px;
+height:25%;
 border: 1px solid black;
 margin-bottom:10%;
 }
@@ -244,23 +249,25 @@ border-left: 1px solid black;
 
 }
 #startgame{
-width:20%;
+font-size:large;
+width:40%;
 height: 2em;
 background-color:lime;
 border:1px solid black;
 border-radius:2em;
-/*margin-bottom:10px;
+margin-bottom:10px;
 margin-top:10px;
-padding-top:.5em;*/
+padding-top:.5em;
 }
 #cleargame{
-width:20%;
+font-size:large;
+width:40%;
 height:2em;
 background-color:red;
 border:1px solid black;
 border-radius:2em;
 color:white;
-/*margin-bottom:10px;
+*margin-bottom:10px;
 margin-top:10px;
-padding-top:.5em;*/
+padding-top:.5em;
 }
